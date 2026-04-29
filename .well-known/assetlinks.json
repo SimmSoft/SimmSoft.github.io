@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.simmsoft.twa",
+      "sha256_cert_fingerprints": [
+        "CD:32:EE:22:84:55:CB:3F:D9:B3:7D:C6:EC:5A:B5:96:A0:79:0D:8D:DC:BE:8D:69:68:47:05:73:08:3C:EE:46"
+      ]
+    }
+  }
+]
