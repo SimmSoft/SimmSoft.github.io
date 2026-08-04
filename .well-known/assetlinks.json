@@ -5,8 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.simmsoft.twa",
+      "package_name": "io.github.simmsoft.tutordeck",
       "sha256_cert_fingerprints": [
+        "66:3F:BB:0F:48:36:EC:64:65:27:E5:59:19:E4:45:6C:DD:C8:F0:6B:9D:3C:99:0F:B9:FB:88:11:D7:B1:6F:F9",
         "CD:32:EE:22:84:55:CB:3F:D9:B3:7D:C6:EC:5A:B5:96:A0:79:0D:8D:DC:BE:8D:69:68:47:05:73:08:3C:EE:46"
       ]
     }
